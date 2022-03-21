@@ -1,0 +1,6 @@
+C:\Users\1924070031\Desktop\ExCarro\ExCarro\bin\Debug\ExCarro.exe.config
+C:\Users\1924070031\Desktop\ExCarro\ExCarro\bin\Debug\ExCarro.exe
+C:\Users\1924070031\Desktop\ExCarro\ExCarro\bin\Debug\ExCarro.pdb
+C:\Users\1924070031\Desktop\ExCarro\ExCarro\obj\Debug\ExCarro.csprojResolveAssemblyReference.cache
+C:\Users\1924070031\Desktop\ExCarro\ExCarro\obj\Debug\ExCarro.exe
+C:\Users\1924070031\Desktop\ExCarro\ExCarro\obj\Debug\ExCarro.pdb
